@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Complexity in.<br>Clarity out.</h1>
+<h1 align="center">Complexity in. Clarity out.</h1>
 
 <p align="center">
   <strong>Independent minds. Exceptional software.</strong>
