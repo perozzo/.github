@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://perozzo.tech/">
-    <img src="https://github.com/perozzo.png" alt="Perozzo logo" width="88">
+    <img src="./assets/z-animation-white.gif" alt="Perozzo logo" width="88">
   </a>
 </p>
 
